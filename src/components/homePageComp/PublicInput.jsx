@@ -2,7 +2,7 @@ import { Icon } from "@iconify/react";
 
 export default function PublicInput() {
    return (
-      <section className="overflow-y-auto border-b p-2 border-amber-100/50">
+      <section className=" border-b p-2 border-amber-100/50">
          <input type="text" placeholder="Escribe tu publicaicon..."
             value=""
             className="w-full p-2 rounded-2xl focus:outline-none placeholder-amber-200/50"
